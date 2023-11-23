@@ -1,0 +1,14 @@
+C:\Users\Windows 7\Desktop\Projetos C#\InstallmentFeeExercise\InstallmentFeeExercise\bin\Debug\net7.0\InstallmentFeeExercise.exe
+C:\Users\Windows 7\Desktop\Projetos C#\InstallmentFeeExercise\InstallmentFeeExercise\bin\Debug\net7.0\InstallmentFeeExercise.deps.json
+C:\Users\Windows 7\Desktop\Projetos C#\InstallmentFeeExercise\InstallmentFeeExercise\bin\Debug\net7.0\InstallmentFeeExercise.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Projetos C#\InstallmentFeeExercise\InstallmentFeeExercise\bin\Debug\net7.0\InstallmentFeeExercise.dll
+C:\Users\Windows 7\Desktop\Projetos C#\InstallmentFeeExercise\InstallmentFeeExercise\bin\Debug\net7.0\InstallmentFeeExercise.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\InstallmentFeeExercise\InstallmentFeeExercise\obj\Debug\net7.0\InstallmentFeeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\Projetos C#\InstallmentFeeExercise\InstallmentFeeExercise\obj\Debug\net7.0\InstallmentFeeExercise.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\InstallmentFeeExercise\InstallmentFeeExercise\obj\Debug\net7.0\InstallmentFeeExercise.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Projetos C#\InstallmentFeeExercise\InstallmentFeeExercise\obj\Debug\net7.0\InstallmentFeeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\InstallmentFeeExercise\InstallmentFeeExercise\obj\Debug\net7.0\InstallmentFeeExercise.dll
+C:\Users\Windows 7\Desktop\Projetos C#\InstallmentFeeExercise\InstallmentFeeExercise\obj\Debug\net7.0\refint\InstallmentFeeExercise.dll
+C:\Users\Windows 7\Desktop\Projetos C#\InstallmentFeeExercise\InstallmentFeeExercise\obj\Debug\net7.0\InstallmentFeeExercise.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\InstallmentFeeExercise\InstallmentFeeExercise\obj\Debug\net7.0\InstallmentFeeExercise.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\Projetos C#\InstallmentFeeExercise\InstallmentFeeExercise\obj\Debug\net7.0\ref\InstallmentFeeExercise.dll
